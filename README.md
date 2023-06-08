@@ -1,5 +1,6 @@
 # Installation 
 pip install -r requirement.txt
+install pytorch (torch) manually because of GPU and CPU
 
 # Add more languages
 ??????
